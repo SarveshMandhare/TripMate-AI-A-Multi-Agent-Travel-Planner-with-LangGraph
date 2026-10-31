@@ -1,0 +1,7 @@
+# enviroments
+.env
+env/
+venv/
+ENV/
+venv.bak/
+env.bak/
